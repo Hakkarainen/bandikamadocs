@@ -1,0 +1,126 @@
+Timo Hyyppä / op-nro: 010366611 / 12.03.20 
+
+Tietojenkäsittelyopin harjoitustyö, tietokannat / 2020-P4 
+
+ 
+Bandikamojen vaihtopalvelu  
+
+Bandikamojen vaihtopalvelun toiminnot 
+
+Palvelua käyttämällä asiakkaat voivat tehdä ja hyväksyä bandikamojen vaihtotarjouksia. 
+
+Asiakastyypit: webbi-käyttäjiä, rekisteröitynyt tai rekisteröitymätön 
+
+Järjestelmä ylläpitää, etsii ja “matchaa” sekä lajittelee tuotteiden vaihtotarjouksia. 
+
+Tuotteesta kiinnostunut  henkilö voi lähettää kysymyksiä tarjoajalle erillisesti emailitse. 
+
+Palvelun asiakkaat voivat hyväksyä mitä tahansa vaihtotarjouksia. Onnistunut vaihtokauppa edellyttää hyväksyntää molemmilta osapuolilta toistensa tarjouksista. Tarvittaessa asiakkaat voivat muokata tarjouksiaan kauppaan sopivammiksi. 
+
+Palvelussa olevia bändikamoja koskevat kysymykset ja niiden vastaukset välitetään vaihdantaosapuolten email-osoitteiden tai puhelinnumeroiden avulla erikseen emailitse tai puhelimitse. 
+
+Rahaa ei palvelussa liikutella, vaan sitä mahdollisesti koskevat asiat sovitaan myös erikseen palvelun ulkopuolitse esim. puhelimitse tai emailitse. 
+
+  
+
+Bandikamojen vaihtopalvelun asiakkaat:   
+
+Asiakkaiden web-selaimella suorittamat toiminnot: 
+
+asiakkaan rekisteröityminen 
+
+kirjaa vaihtotarjoukset vaihdannan tuoteryhmän tarjouslistoille: 
+
+soittimet 
+
+vahvistimet 
+
+mikit 
+
+Studiokamat 
+
+tarjottujen vaihdantatuotetietojen syöttäminen vaihtotarjouksiin 
+
+määrittää vaihtotarjouksen alkamis- ja päättymisajan sekä asettaa kompensaatio- ja toimitus- yms. toiveet 
+
+ylläpitää vaihtotarjoustaan, mm. tilatietoja ja sovittaa sisältöä kaupantekijäisiksi 
+
+poistaa lopuksi toteutuneeseen vaihtoon liittyvän tarjouksensa 
+
+ 
+
+ Järjestelmä ylläpitää, etsii ja “matchaa” sekä lajittelee tuotteiden vaihtotarjouksia. 
+
+bändikamalistojen luonti ja ylläpito. 
+
+avoimet tarjoukset-lista,  
+
+Tilatietoa ylläpidetään listalla 
+
+listaukset  tarjoajittain tilan, tuoteryhmän ja päivämäärien ja yhteensopivuuden (matching) perusteella 
+
+Vaihtokauppaan johtaneen tarjouksen tilan muuttaminen (toteutuneet) 
+
+ 
+
+Tietokannan tietokohteet 
+
+Asiakastiedot 
+
+Henkilön tunnus 
+
+Nimi ja nimimerkki 
+
+salasana 
+
+Email  
+
+Puhelinnumero (näkyy vain rekisteröityneille) 
+
+Muu tarjouksiin liittyvä asiakastieto 
+
+Vaihtotuoteryhmä 
+
+Tuoterymäkoodi ja ryhmän nimi 
+
+Vaihtotuote 
+
+Tuotteen koodi 
+
+Tuotteen nimi ja tyyppitiedot, esim. vuosimalli 
+
+Tarkennettu kuvaus, kunnon, värin, soundin yms. 
+
+Vintage-tuotteen elämäntarina 
+
+Tuotteen tarjottu määrä 
+
+Tuotteen alkuperäinen hinta 
+
+ Kommentit 
+
+Vaihtotarjous 
+
+Tarjoajan yhteystiedot 
+
+Tarjoajan referenssit 
+
+Tarjouksen alkamis- ja päättymispäivä 
+
+Tarjouksen tilatieto 
+
+Tarjoustuotteiden tunnukset 
+
+Tuotteiden toimitustapa 
+
+Vaihtotoiveet: toivotut tuotteet 
+
+Muut tarjoukseen liittyvät tiedot, lisäkommentti 
+
+Historiatilastot 
+
+Vaihdannan vuosi ja kk-tilasto tuoteryhmittäin 
+
+Asiakastilasto 
+
+ 
