@@ -1,6 +1,6 @@
-Timo Hyyppä / op-nro: 010366611 / 12.03.20 
+Timo Hyyppä / 20.03.21
 
-Tietojenkäsittelyopin harjoitustyö, tietokannat / 2020-P4 
+Tietojenkäsittelyopin harjoitustyö, tietokannat / 2021-P4 
 
  
 Bandikamojen vaihtopalvelu  
